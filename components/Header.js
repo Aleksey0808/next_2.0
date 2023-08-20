@@ -1,9 +1,9 @@
-import Heading from "./Heading";
+import NavBar from "./NavBar";
 
 const Header = () => {
     return (
         <header>
-            <Heading text= "Header next"/>
+            <NavBar />
         </header>
     );
 };
